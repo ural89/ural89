@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ural 
+# ![](CraftShooter.gif)
 
-<!--
-**ural89/ural89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+  ____  ____ ___ ___   ___      ___     ___ __ __   ___ _      ___  ____   ___ ____  
+ /    |/    |   |   | /  _]    |   \   /  _]  |  | /  _] |    /   \|    \ /  _]    \ 
+|   __|  o  | _   _ |/  [_     |    \ /  [_|  |  |/  [_| |   |     |  o  )  [_|  D  )
+|  |  |     |  \_/  |    _]    |  D  |    _]  |  |    _] |___|  O  |   _/    _]    / 
+|  |_ |  _  |   |   |   [_     |     |   [_|  :  |   [_|     |     |  | |   [_|    \ 
+|     |  |  |   |   |     |    |     |     |\   /|     |     |     |  | |     |  .  \
+|___,_|__|__|___|___|_____|    |_____|_____| \_/ |_____|_____|\___/|__| |_____|__|\_|
+                                                                                     
+```                   
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ![](CraftRogueShort.gif)

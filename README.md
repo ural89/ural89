@@ -1,8 +1,3 @@
-# Hi, I'm Ural 
-[![ConsoleCraftEngine](https://img.shields.io/badge/ConsoleCraftEngine-C%2B%2B-blue)](https://github.com/ural89/ConsoleCraftEngine)
-# ![](CraftShooter.gif) 
-
-
 ```
   ____  ____ ___ ___   ___      ___     ___ __ __   ___ _      ___  ____   ___ ____  
  /    |/    |   |   | /  _]    |   \   /  _]  |  | /  _] |    /   \|    \ /  _]    \ 
@@ -15,4 +10,6 @@
 ```                   
 
 
+[![ConsoleCraftEngine](https://img.shields.io/badge/ConsoleCraftEngine-C%2B%2B-blue)](https://github.com/ural89/ConsoleCraftEngine)
+# ![](CraftShooter.gif)  
 # ![](CraftRogueShort.gif)
